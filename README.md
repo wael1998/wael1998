@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wael chakchouk</h1>
-<h3 align="center">A passionate iot developer from Tunisia</h3>
+<h3 align="center">A passionate IoT developer from Tunisia</h3>
 
 - 👨‍💻 All of my projects are available at [https://wael-chakchouk-portfolio.netlify.app](https://wael-chakchouk-portfolio.netlify.app)
 
