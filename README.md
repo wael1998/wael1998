@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm wael chakchouk</h1>
 <h3 align="center">A passionate Software engineer from Tunisia</h3>
 
-- 👨‍💻 All of my projects are available at [https://wael-chakchouk-portfolio.netlify.app](https://wael-chakchouk-portfolio.netlify.app)
+- 👨‍💻 know more about me [https://waelchakchouk.carrd.co/?fbclid=IwAR1slNXeGawaAxrLr2M9zVArBV3oyYhVsZoGivpHHp9V5fJCNcuDLD2mTHY#](https://waelchakchouk.carrd.co/?fbclid=IwAR1slNXeGawaAxrLr2M9zVArBV3oyYhVsZoGivpHHp9V5fJCNcuDLD2mTHY#)
 
 - 📫 How to reach me **wael.chakchouk@esprit.tn**
 
